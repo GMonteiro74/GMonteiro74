@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Full Stack Web Developer graduated from Ironhack 🚀
 - 🌱 I’m currently improving my JavaScript and ReactJs skills
-- 👯 I’m looking to collaborate on any React projects that you have!
+- 👉 Check on my projects in my repos!
 
 ### Languages and Tools
 
