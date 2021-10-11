@@ -1,4 +1,4 @@
-### Hey there, my name is Gonçalo Monteiro and this is my profile 🥷
+### Hey there, my name is Gonçalo Monteiro and this is my profile 😎
 
 - 🔭 I’m a Full Stack Web Developer graduated from Ironhack 🚀
 - 🌱 I’m currently improving my JavaScript and ReactJs skills
