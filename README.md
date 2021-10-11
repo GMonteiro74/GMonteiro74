@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey there, my name is Gonçalo Monteiro and this is my profile 🥷
 
-<!--
-**GMonteiro74/GMonteiro74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a Full Stack Web Developer graduated from Ironhack 🚀
+- 🌱 I’m currently improving my JavaScript and ReactJs skills
+- 👯 I’m looking to collaborate on any React projects that you have!
 
-Here are some ideas to get you started:
+### Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://user-images.githubusercontent.com/86190072/136788941-a014e17b-dfdc-49cf-8b41-57ef1e57fe38.png)
+![image](https://user-images.githubusercontent.com/86190072/136788970-42a02741-ee28-4270-a95d-afddce9375f1.png)
+![image](https://user-images.githubusercontent.com/86190072/136789064-c2057341-2dc2-4e40-8a16-427659c2f7c8.png)
+![image](https://user-images.githubusercontent.com/86190072/136789135-a8d73027-d1be-4f56-9315-9ac570ea9614.png)
+![image](https://user-images.githubusercontent.com/86190072/136789176-ac230ac0-2851-4da6-8f8e-577951b6570a.png)
+
+### Contact me at
+
+[![linkedin](https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png)](https://www.linkedin.com/in/goncalondmonteiro/)
